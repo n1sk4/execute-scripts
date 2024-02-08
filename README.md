@@ -9,6 +9,7 @@ Python 3.11 installed.
  pip install tkinter
  pip install subprocess
 
+ pip install pyinstaller
 ```
 
 ## Start Virtual Environment
