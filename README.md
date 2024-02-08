@@ -1,5 +1,5 @@
 # Execute Scripts
-Desktop app for managing script execution.
+Multiplatform Desktop app for managing script execution.
 
 # Dependencies and Build
 Python 3.11 installed.
